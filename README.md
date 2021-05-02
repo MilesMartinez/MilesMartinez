@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MilesMartinez
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Data Engineering
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Data Engineering or Machine Learning Engineering projects
 - 📫 How to reach me: https://www.linkedin.com/in/milesmartinez/
 
 <!---
