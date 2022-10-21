@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MilesMartinez
 - 👀 I’m interested in Data Analytics, Data Science, and Data Engineering
-- 🌱 I'm learning cloud architecture 
+- 🌱 I'm learning AWS
 - 💞️ I’m looking to collaborate on Data Engineering or Machine Learning Engineering projects
 - 📫 How to reach me: https://www.linkedin.com/in/milesmartinez/
 
